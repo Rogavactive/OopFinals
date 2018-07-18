@@ -1,4 +1,4 @@
-package com.ProducerConsumer;
+package Others.ProducerConsumer;
 
 public class ProducerConsumerTest {
     public static int numBins = 10;

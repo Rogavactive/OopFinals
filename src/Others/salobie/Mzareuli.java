@@ -1,4 +1,4 @@
-package com.salobie;
+package Others.salobie;
 
 public class Mzareuli extends Thread {
     int capacity;

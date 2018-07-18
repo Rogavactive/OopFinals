@@ -1,0 +1,1 @@
+Es ar aris gashvebadi kodi, da saertod sworia tu ara ar vici. Me ar gamirchevia.

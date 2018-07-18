@@ -1,4 +1,6 @@
-package com.salobie;
+package Others.salobie;
+
+import Others.salobie.Salobie;
 
 public class Lobio {
     int cookTime = 5000;

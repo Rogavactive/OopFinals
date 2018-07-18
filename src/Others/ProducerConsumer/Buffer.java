@@ -1,4 +1,4 @@
-package com.ProducerConsumer;
+package Others.ProducerConsumer;
 
 import static java.lang.Thread.sleep;
 

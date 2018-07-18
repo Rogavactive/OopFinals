@@ -1,4 +1,4 @@
-package com.ProducerConsumer;
+package Others.ProducerConsumer;
 
 import java.util.Random;
 

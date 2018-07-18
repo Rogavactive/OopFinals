@@ -1,4 +1,4 @@
-package Statuses;
+package Others.Statuses;
 
 import javafx.concurrent.Worker;
 

@@ -1,4 +1,4 @@
-package com.salobie;
+package Others.salobie;
 
 import java.net.ServerSocket;
 import java.net.Socket;
