@@ -1,4 +1,4 @@
-package Others;
+package Others.TheSemaphore;
 
 import java.util.LinkedList;
 import java.util.Queue;
@@ -6,12 +6,12 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class semaphore{
+public class TheSemaphore{
     private boolean isFear;
     private int c;
     Lock lock;
     Queue<Condition> conditions;
-    public semaphore(int c , boolean isFear){
+    public TheSemaphore(int c , boolean isFear){
         this.c = c;
         this.isFear = isFear;
         lock = new ReentrantLock(isFear);
@@ -49,6 +49,6 @@ public class semaphore{
     }
 
     public static void main (String args[]){
-        semaphore sm = new semaphore(3,true);
+        TheSemaphore sm = new TheSemaphore(3,true);
     }
 }

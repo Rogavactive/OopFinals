@@ -1,9 +1,4 @@
-import java.util.LinkedList;
-import java.util.Queue;
-import java.util.concurrent.Semaphore;
-import java.util.concurrent.locks.Condition;
-import java.util.concurrent.locks.Lock;
-import java.util.concurrent.locks.ReentrantLock;
+package Others.RasDabechdavs;
 
 enum Animals{
     DOG("woof"),CAT("meow"),FISH("burble");
@@ -39,18 +34,6 @@ public class TestEnum {
     interface Device{ public void doIt();}
 
     public abstract interface Frobnicate{public void twiddle(String s);}
-
-//    public class Frob implements Frobnicate{
-//
-//        @Override
-//        public void twiddle(String s) {
-//
-//        }
-//
-//        public void twiddle(Integer s){
-//
-//        }
-//    }
 
     public abstract class Frob implements Frobnicate{}
 
