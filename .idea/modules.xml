@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UserQueueApp.iml" filepath="$PROJECT_DIR$/UserQueueApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Oop Finals.iml" filepath="$PROJECT_DIR$/Oop Finals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UserQueueApp/UserQueueApp.iml" filepath="$PROJECT_DIR$/UserQueueApp/UserQueueApp.iml" />
     </modules>
   </component>
 </project>
