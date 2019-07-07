@@ -7,7 +7,7 @@ class Mixer{
         m1 = m;
     }
     public void go(){
-        System.out.println("bagdavadze ylea ");
+        System.out.println("Bagdavadze kargi bichia <3 ");
     }
 
     public static void main (String args[]){
